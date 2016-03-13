@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Gurgle&Whump]]></title>
+        <description><![CDATA[Gurgle&Whump]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 13 Mar 2016 18:27:25 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Blowholes are Gurgle & Whump!]]></title>
+            <description><![CDATA[<article><h1>The Blowholes are Gurgle & Whump!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5eef36f4893fa4ada5b4e1b5db7bfefa4071911f.png"></article>]]></description>
+            <link>undefinedthe-blowholes-are-gurgle-and-whump/index.html</link>
+            <guid isPermaLink="false">aef931bf-f5bd-486b-9566-0028f5f26aae</guid>
+            <pubDate>Sun, 13 Mar 2016 18:26:32 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
