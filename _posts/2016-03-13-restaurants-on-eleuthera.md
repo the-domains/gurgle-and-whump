@@ -1,44 +1,63 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: Restaurants on Eleuthera
-datePublished: '2016-03-13T20:10:21.685Z'
-dateModified: '2016-03-13T20:10:18.678Z'
-title: ''
+description: 'Nearby to Gurgle & Whump'
+datePublished: '2016-03-14T13:22:16.029Z'
+dateModified: '2016-03-14T13:20:25.000Z'
+title: Restaurants and Bars
 author: []
+sourcePath: _posts/2016-03-13-restaurants-on-eleuthera.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-13-restaurants-on-eleuthera.md
-published: true
 url: restaurants-on-eleuthera/index.html
-_type: Article
+_type: WebPage
 
 ---
-Restaurants on Eleuthera
+# Restaurants and Bars
 
-Nearby to Gurgle & Whump
+# **Up South**
 
-LeoRose - beer and hamburgers on the beach; complete with dominos (a national past-time in the Bahamas).  Live music on Thursdays.  Located on the south end of James Cistern (J.C.).  Building is blue and yellow and probably has a lot of cars parked nearby. 
+**Pascals at Cape Eleuthera**
 
-[Rainbow Inn][0] - full menu.  Live music most nights.  Monday is pizza night.  located at the north end of Rainbow Bay neighbourhood.  
+****
 
-[Pascals at Sky Beach][1] - full menu.  Live music some nights.  
+**Central region**
 
-Further North
+**PP**
 
-[Laughing Lizard Cafe][2] - limited menu.  Coffee.  also has local jams.  
+**Mate & Jennys**
 
-  
+**Governor's Harbour**
 
+**Da Perk **- coffee house, sandwiches
 
-[0]: rainbowinn.com
-[1]: http://skybeachclub.com/the-bistro/
+Pina
+
+Fish Fry (Friday nights)
+
+[Pascals at Sky Beach][0] - full menu.  Live music some nights.  
+
+James Cistern
+
+**LeoRose - beer and hamburgers on the beach; complete with dominos (a national past-time in the Bahamas).  Live music on Thursdays.  Located on the south end of James Cistern (J.C.).  Building is blue and yellow and probably has a lot of cars parked nearby. **
+
+Billy and Brenda's Tamarind Tree 
+
+[Rainbow Inn][1] - full menu.  Live music most nights.  Monday is pizza night.  located at the north end of Rainbow Bay neighbourhood.  
+
+**Further North**
+
+[Laughing Lizard Cafe][2] - limited menu.  Coffee.  Also has local jams.  
+
+[0]: http://skybeachclub.com/the-bistro/
+[1]: https://app.thegrid.io/posts/2b2da197-3458-4d4d-a762-ba3972895678/rainbowinn.com
 [2]: https://www.facebook.com/thelaughinglizard/
